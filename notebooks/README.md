@@ -65,31 +65,31 @@ response = client.responses.create(
 Based on the visual cues in the photos (style, grooming, body language, and attire), here is a breakdown and ranking of the three men based on your specific criteria.
 
 ### 1. Sexy and Aesthetic
-- Winner: Boy 3 (Green Shirt) — modern aesthetic, styled hair, fitted shirt, confident model-like vibe
+- Winner: Boy 2 (Green Shirt) — modern aesthetic, styled hair, fitted shirt, confident model-like vibe
 - Runner Up: Boy 1 (Black Suit) — dignified and sharp, classic black-on-black blazer look
-- Third: Boy 2 (Blue Jacket) — cute and approachable but casual outfit ranks lower
+- Third: Boy 3 (Blue Jacket) — cute and approachable but casual outfit ranks lower
 
 ### 2. Professional
-- Winner: Boy 3 (Green Shirt) — crisp button-down and trousers, perfect Business Casual
+- Winner: Boy 2 (Green Shirt) — crisp button-down and trousers, perfect Business Casual
 - Runner Up: Boy 1 (Black Suit) — very formal but attire is event-specific (Sherwani/Kurta with blazer)
-- Third: Boy 2 (Blue Jacket) — dressed for a weekend hangout, not professional
+- Third: Boy 3 (Blue Jacket) — dressed for a weekend hangout, not professional
 
 ### 3. Who Can Get a 10/10 Baddie
-- Winner: Boy 3 (Green Shirt) — confidence, style, edge, car in background implies status
+- Winner: Boy 2 (Green Shirt) — confidence, style, edge, car in background implies status
 - Runner Up: Boy 1 (Black Suit) — looks established and successful, appeals to stability-seekers
-- Third: Boy 2 (Blue Jacket) — "nice guy / boy next door" vibes, lacks intimidating confidence
+- Third: Boy 3 (Blue Jacket) — "nice guy / boy next door" vibes, lacks intimidating confidence
 
 ### 4. Husband Material
 - Winner: Boy 1 (Black Suit) — exudes stability, traditional attire suggests family values, "CEO of a family business" energy
-- Runner Up: Boy 2 (Blue Jacket) — warm genuine smile, approachable, kind and easy to talk to
-- Third: Boy 3 (Green Shirt) — attractive but gives off "player/heartthrob" vibe
+- Runner Up: Boy 3 (Blue Jacket) — warm genuine smile, approachable, kind and easy to talk to
+- Third: Boy 2 (Green Shirt) — attractive but gives off "player/heartthrob" vibe
 
 ---
 
 ### Final Overall Ranking
 
-1. Boy 3 (Green Shirt) — The Total Package. Wins on looks, style, and modern appeal.
+1. Boy 2 (Green Shirt) — The Total Package. Wins on looks, style, and modern appeal.
 2. Boy 1 (Black Suit) — The High-Value Catch. Wins on Husband Material and perceived status.
-3. Boy 2 (Blue Jacket) — The Cute Best Friend. Most approachable but ranks last on power and sexiness.
+3. Boy 3 (Blue Jacket) — The Cute Best Friend. Most approachable but ranks last on power and sexiness.
 ```
 
