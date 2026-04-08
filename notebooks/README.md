@@ -37,7 +37,7 @@ with open("../Zaid.jpeg", "rb") as f:
 
 | Boy 1 - Awais (Black Suit) | Boy 2 - Zaid (Green Shirt) | Boy 3 - Talha (Blue Jacket) |
 |:---:|:---:|:---:|
-| <img src="../Awais2.jpeg" width="200"/> | <img src="../Zaid.jpeg" width="200"/> | <img src="../Talha.jpeg" width="200"/> |
+| <img src="Awais2.jpeg" width="200"/> | <img src="Zaid.jpeg" width="200"/> | <img src="Talha.jpeg" width="200"/> |
 
 ## Sending Multi-Image Request
 
